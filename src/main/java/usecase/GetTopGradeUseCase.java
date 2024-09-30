@@ -17,7 +17,7 @@ public final class GetTopGradeUseCase {
     /**
      * Get the highest grade for a course across your team.
      * @param course The course.
-     * @return The top grade.
+     * @return The top grade
      */
     public float getTopGrade(String course) {
         // Call the API to get the usernames of all your team members
